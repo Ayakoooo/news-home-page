@@ -7,7 +7,6 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -23,13 +22,9 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+View the [website live](https://ayakoooo.github.io/news-home-page/) 
 
 ![](/assets/images/screenshot.png)
-
-### Links
-
-- Solution URL: [GitHub](https://github.com/Ayakoooo/news-home-page)
-- Live Site URL: [GitHub Pages](https://ayakoooo.github.io/news-home-page/)
 
 ## My process
 
