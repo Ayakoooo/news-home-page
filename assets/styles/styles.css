@@ -15,7 +15,9 @@
 body {
   font-family: "Inter", serif !important;
   font-weight: var(--fw-regular);
+  background-color: var(--clr-off-white);
 }
+
 
 /* Navbar */
 .navbar {
