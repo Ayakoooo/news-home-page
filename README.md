@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Ayakoooo/news-home-page)
+- Live Site URL: [GitHub Pages](https://ayakoooo.github.io/news-home-page/)
 
 ## My process
 
